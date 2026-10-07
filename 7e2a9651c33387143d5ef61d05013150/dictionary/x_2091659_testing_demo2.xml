@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="195e12d9c33387143d5ef61d05013190" label="demo2" max_length="40" name="x_2091659_testing_demo2" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="demo2" max_length="40" name="demo2" type="string"/>
+    </element>
+</database>
